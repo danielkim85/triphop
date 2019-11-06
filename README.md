@@ -1,4 +1,4 @@
-# triphop
+# TripHop
 
 ## Getting Started
 
